@@ -1,2 +1,2 @@
 # death-logs
-Death logs for RedM
+Detailed Death logs for RedM
